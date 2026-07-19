@@ -1447,11 +1447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/New_Game/GameTests/GameTests.csproj",
+      "projectUniqueName": "/workspaces/The-Red-Ring/GameTests/GameTests.csproj",
       "projectName": "GameTests",
-      "projectPath": "/workspaces/New_Game/GameTests/GameTests.csproj",
+      "projectPath": "/workspaces/The-Red-Ring/GameTests/GameTests.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/New_Game/GameTests/obj/",
+      "outputPath": "/workspaces/The-Red-Ring/GameTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -1478,7 +1478,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -1521,7 +1521,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
